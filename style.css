@@ -1,0 +1,20 @@
+:root{
+    --texto-verde: #DAFF01;
+    --botao-produtos: #9353FF;
+}
+
+.texto-menor{
+    font-size: 13px;
+}
+
+.divs-facilidade{
+    width:325px;
+}
+
+.texto-facilidades{
+    color: var(--texto-verde);
+}
+
+.botao-produtos{
+    background-color: var(--botao-produtos);
+}
